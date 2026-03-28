@@ -1,5 +1,5 @@
 <?php
-// Database connection
+// Database connectio
 $host = "localhost";
 $dbname = "stock style hub"; // Corrected to use underscore
 $username = "root";
